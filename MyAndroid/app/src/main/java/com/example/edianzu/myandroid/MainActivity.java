@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
                 Log.d("dongya","dongya");
             }
         });
+        button.setText("wwwwww");
     }
 }
